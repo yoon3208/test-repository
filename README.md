@@ -61,17 +61,17 @@
 
 - 메인 화면
     
-<img src= "https://github.com/yoon3208/test-repository/assets/161405457/5c37833f-a9d7-4444-ae19-a0b232eff856.png" width="200" height="200"/>
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/5c37833f-a9d7-4444-ae19-a0b232eff856.png" width="200" height="400"/>
 
 
-<img src= "https://github.com/yoon3208/test-repository/assets/161405457/11e4d075-7668-4dce-a422-bb15506e0193.png width="200" height="200"/>
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/11e4d075-7668-4dce-a422-bb15506e0193.png" width="400" height="200"/>
 
 
 
 - 상세 설명 화면
     
-![%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A6](https://github.com/yoon3208/test-repos![MVC_2](https://github.com/yoon3208/test-repository/assets/161405457/252fea8d-c066-4b0c-8ff8-cce5564cb7ce)
-itory/assets/161405457/e30ce35d-fc94-4fbb-a1a4-67456e5109c3)
+<img src= "https://github.com/yoon3208/test-repos![MVC_2](https://github.com/yoon3208/test-repository/assets/161405457/252fea8d-c066-4b0c-8ff8-cce5564cb7ce)
+itory/assets/161405457/e30ce35d-fc94-4fbb-a1a4-67456e5109c3.png" width="400" height="200"/>
 
     
 
