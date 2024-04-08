@@ -13,12 +13,14 @@
 ## 2. Wireframe (Designed in Figma)
 
 - Wireframe
-  <img width="632" alt="스크린샷 2024-04-08 오후 4 49 35" src="https://github.com/yoon3208/test-repository/assets/161405457/e87676d9-a82b-4898-9f88-ddc207003d1a">
+
+<img width="632" alt="스크린샷 2024-04-08 오후 4 49 35" src="https://github.com/yoon3208/test-repository/assets/161405457/5f7cd1f5-18e2-4923-a576-f8e12c8bd0e4">
 
 - Wireframe History
     
     Version 1
-   (https://github.com/yoon3208/test-repository/assets/161405457/8a50057d-e7b5-4c19-8e32-a8fdd2ebc3a3)
+
+![Untitled-2](https://github.com/yoon3208/test-repository/assets/161405457/81e2f539-8e57-434a-be14-4a8e360ac0d0)
 
  
     Version 2 - 화면 흐름 수정 및 결제, 상품 상세페이지 추가
@@ -59,10 +61,10 @@
 
 - 메인 화면
     
-![%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB](https://github.com/yoon3208/test-repository/assets/161405457/5c37833f-a9d7-4444-ae19-a0b232eff856)
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/5c37833f-a9d7-4444-ae19-a0b232eff856.png" width="200" height="200"/>
 
 
-![Untitled-8](https://github.com/yoon3208/test-repository/assets/161405457/11e4d075-7668-4dce-a422-bb15506e0193)
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/11e4d075-7668-4dce-a422-bb15506e0193.png width="200" height="200"/>
 
 
 
