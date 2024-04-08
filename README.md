@@ -76,14 +76,14 @@ itory/assets/161405457/e30ce35d-fc94-4fbb-a1a4-67456e5109c3.png" width="400" hei
     
 
 옵션 선택 화면
-![%E1%84%8B%E1%85%A9%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB](https://github.com/yoon3208/test-repository/assets/161405457/14a86205-7ed1-4809-be05-baaa0720107a)
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/14a86205-7ed1-4809-be05-baaa0720107a.png" width="200" height="400"/>
 
-![Untitled-9](https://github.com/yoon3208/test-repository/assets/161405457/3fae1b85-085a-4381-84b6-2112d7c0a71c)
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/3fae1b85-085a-4381-84b6-2112d7c0a71c.png" width="400" height="200"/>
 
 - 장바구니 화면
     
-![%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A1%E1%84%80%E1%85%AE%E1%84%82%E1%85%B5](https://github.com/yoon3208/test-repository/assets/161405457/c2ddf8fd-2b03-4e80-8221-7b0bb1af34e1)
-![Untitled-10](https://github.com/yoon3208/test-repository/assets/161405457/20ff06c0-fa80-4ba1-b30c-03a8fdc9b1ae)
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/c2ddf8fd-2b03-4e80-8221-7b0bb1af34e1.png" width="200" height="400"/>
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/20ff06c0-fa80-4ba1-b30c-03a8fdc9b1ae.png" width="400" height="200"/>
 
 
 ## 4. Troubleshooting
