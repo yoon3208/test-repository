@@ -18,7 +18,7 @@
 - Wireframe History
     
     Version 1
-    ![Untitled-2](https://github.com/yoon3208/test-repository/assets/161405457/8a50057d-e7b5-4c19-8e32-a8fdd2ebc3a3)
+   <img src= "https://github.com/yoon3208/test-repository/assets/161405457/8a50057d-e7b5-4c19-8e32-a8fdd2ebc3a3.png" width="200" height="200"/>
 
  
     Version 2 - 화면 흐름 수정 및 결제, 상품 상세페이지 추가
