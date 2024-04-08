@@ -70,9 +70,8 @@
 
 - 상세 설명 화면
     
-<img src= "https://github.com/yoon3208/test-repos![MVC_2](https://github.com/yoon3208/test-repository/assets/161405457/252fea8d-c066-4b0c-8ff8-cce5564cb7ce)
-itory/assets/161405457/e30ce35d-fc94-4fbb-a1a4-67456e5109c3.png" width="400" height="200"/>
-
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/e30ce35d-fc94-4fbb-a1a4-67456e5109c3.png" width="200" height="400"/>
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/252fea8d-c066-4b0c-8ff8-cce5564cb7ce.png" width="400" height="200"/>
     
 
 옵션 선택 화면
