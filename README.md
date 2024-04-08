@@ -1,21 +1,9 @@
 # test-repository
 
-## 0. 참고 : GitHub Repository, Video
-
-1. Github Repository - **Public 잊지말기!**
-
-https://github.com/sparta-t1/BlueBucksKiosk
-
-1. Video
-
-[[내일배움캠프_iOS트랙3기]1조_BlueBucks시연영상](https://www.youtube.com/watch?v=aUytokCf1ms)
-
-[앱 시연.mov](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/1774f275-1dc2-4207-9e6c-b8ba1b7c75c5/%E1%84%8B%E1%85%A2%E1%86%B8_%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%AB.mov)
 
 ## 1. **BlueBucksKiosk Project**
 
-![icon2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/b467d948-ad7b-4376-a994-b238b8c21a52/icon2.png)
-
+![icon2](https://github.com/yoon3208/test-repository/assets/161405457/06d8467e-1805-491d-8efc-1e2742cd5f34)
      (블루벅스 로고 이미지)
 
 - **BlueBucks**는 유명 카페 브랜드인 블루보틀(Blue Bottle Coffee)과 스타벅스(STARBUCKS)를 병합한 이름으로 그 두 기업을 합친 만큼의 큰 기업의 **Kiosk** (키오스크)를 만들 때, 
@@ -25,27 +13,33 @@ https://github.com/sparta-t1/BlueBucksKiosk
 ## 2. Wireframe (Designed in Figma)
 
 - Wireframe
+  <img width="632" alt="스크린샷 2024-04-08 오후 4 49 35" src="https://github.com/yoon3208/test-repository/assets/161405457/e87676d9-a82b-4898-9f88-ddc207003d1a">
+
 - Wireframe History
     
     Version 1
-    
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/0c8b9924-39b7-4dc7-90a7-1c399dec62c4/Untitled.png)
-    
+    ![Untitled-2](https://github.com/yoon3208/test-repository/assets/161405457/8a50057d-e7b5-4c19-8e32-a8fdd2ebc3a3)
+
+ 
     Version 2 - 화면 흐름 수정 및 결제, 상품 상세페이지 추가
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/672f35b8-c75b-4cb9-8a08-0046d2cf47fa/Untitled.png)
+![Untitled-3](https://github.com/yoon3208/test-repository/assets/161405457/885908ca-7315-425a-9f57-dc40f46757d9)
+
     
     Version 3 - 상품 전체삭제 및 결제 재확인 추가
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/9b0f4747-1d3e-47db-883c-73b20483cd07/d2107343-0c55-4651-8fcc-742feb271f48.png)
+![Untitled-4](https://github.com/yoon3208/test-repository/assets/161405457/3d37af4e-ab47-4175-ab13-e15cf30e2dd5)
+
     
     Version 4 - 컬렉션 뷰 셀, 테이블 뷰 셀
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/8bf27190-e1fd-428f-a03d-eb98ca442d59/Untitled.png)
+![Untitled-5](https://github.com/yoon3208/test-repository/assets/161405457/1eb58b03-27a3-4f81-a82e-74909c36a73c)
+
     
     Version 5 - 흐름 정리 및 비활성화 버튼 추가
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/313c00ab-ff0a-4f04-8b5e-001532a3812f/Untitled.png)
+   ![Untitled-6](https://github.com/yoon3208/test-repository/assets/161405457/578e31d5-eeb8-464f-9db6-4ded1d4cecd9)
+
     
 
 ## 3. 개발 기능 정리
