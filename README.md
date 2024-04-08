@@ -46,40 +46,43 @@
 
 ### **파일 세부 정보 및 아키텍처 구성**
 
-[페이지별 기능 소개](https://www.notion.so/556677432fad404e8b0d58adaecadfab?pvs=21)
+<img width="1133" alt="스크린샷 2024-04-08 오후 5 00 44" src="https://github.com/yoon3208/test-repository/assets/161405457/cd820cff-ae79-4697-b870-1696fd46380d">
+
+
 
 ### UI Flow
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/a2b30c91-234a-4ea2-82c7-03afe26db47b/Untitled.png)
+![Untitled-7](https://github.com/yoon3208/test-repository/assets/161405457/5caeafee-b0b0-4c14-9c86-58f9880d574d)
+
 
 ### 페이지별 기능 소개
 
 - 메인 화면
     
-    ![메인.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/65861cf6-c976-4592-bd9d-12f4211da8bf/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB.png)
-    
+![%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB](https://github.com/yoon3208/test-repository/assets/161405457/5c37833f-a9d7-4444-ae19-a0b232eff856)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/42e2c7ae-98e6-40e0-b09d-722244db12b2/Untitled.png)
+
+![Untitled-8](https://github.com/yoon3208/test-repository/assets/161405457/11e4d075-7668-4dce-a422-bb15506e0193)
+
+
 
 - 상세 설명 화면
     
-    ![상세.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/aad656ec-3760-48ca-ab67-196d76d771c0/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A6.png)
+![%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A6](https://github.com/yoon3208/test-repos![MVC_2](https://github.com/yoon3208/test-repository/assets/161405457/252fea8d-c066-4b0c-8ff8-cce5564cb7ce)
+itory/assets/161405457/e30ce35d-fc94-4fbb-a1a4-67456e5109c3)
+
     
 
 옵션 선택 화면
+![%E1%84%8B%E1%85%A9%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB](https://github.com/yoon3208/test-repository/assets/161405457/14a86205-7ed1-4809-be05-baaa0720107a)
 
-![MVC_2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/3289c685-cb4b-4607-894e-c13cb4218767/MVC_2.png)
-
-![옵션.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/69f93a6d-9ea8-4fa3-95ad-7ed651227525/%E1%84%8B%E1%85%A9%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB.png)
+![Untitled-9](https://github.com/yoon3208/test-repository/assets/161405457/3fae1b85-085a-4381-84b6-2112d7c0a71c)
 
 - 장바구니 화면
     
-    ![장바구니.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/a547a031-b0fb-4f0d-af52-db1bc55f6e59/%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A1%E1%84%80%E1%85%AE%E1%84%82%E1%85%B5.png)
-    
+![%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A1%E1%84%80%E1%85%AE%E1%84%82%E1%85%B5](https://github.com/yoon3208/test-repository/assets/161405457/c2ddf8fd-2b03-4e80-8221-7b0bb1af34e1)
+![Untitled-10](https://github.com/yoon3208/test-repository/assets/161405457/20ff06c0-fa80-4ba1-b30c-03a8fdc9b1ae)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/8bcd5f31-6b0d-4352-910b-20d0984080d9/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/272b1fa8-2a67-4449-b649-23d4e1c6db9b/b8a699b9-5053-4a9e-9dc2-c5ac18043c75/Untitled.png)
 
 ## 4. Troubleshooting
 
