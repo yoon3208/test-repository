@@ -3,7 +3,7 @@
 
 ## 1. **BlueBucksKiosk Project**
 
-![icon2](https://github.com/yoon3208/test-repository/assets/161405457/06d8467e-1805-491d-8efc-1e2742cd5f34)
+<img src= "https://github.com/yoon3208/test-repository/assets/161405457/06d8467e-1805-491d-8efc-1e2742cd5f34>
      (블루벅스 로고 이미지)
 
 - **BlueBucks**는 유명 카페 브랜드인 블루보틀(Blue Bottle Coffee)과 스타벅스(STARBUCKS)를 병합한 이름으로 그 두 기업을 합친 만큼의 큰 기업의 **Kiosk** (키오스크)를 만들 때, 
