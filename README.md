@@ -1,6 +1,6 @@
 # test-repository
 
-##프로젝트 소개
+## 프로젝트 소개
 <img src="https://github.com/yoon3208/test-repository/assets/161405457/1d0a7566-a929-4b56-999b-93d8c85f8737" width="509">
 
 
@@ -15,3 +15,5 @@
             - 정복 → 마이페이지
             - 윤희 → 검색페이지, 개봉 예정페이지
             - 정훈 → 메인페이지
+            - 
+https://www.notion.so/teamsparta/S-A-Starting-Assignments-801cd0c21f404adaa56ffff4090c63d3?pvs=4#8290b53a26ff4ff3a30585ad185c0405
