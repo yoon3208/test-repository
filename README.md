@@ -1,12 +1,5 @@
 # test-repository
 
-
-## 1. **BlueBucksKiosk Project**
-
-<img src= "https://github.com/yoon3208/test-repository/assets/161405457/06d8467e-1805-491d-8efc-1e2742cd5f34.png" width="200" height="200"/>
-     (블루벅스 로고 이미지)
-
-
 ##프로젝트 소개
 <img src="https://github.com/yoon3208/test-repository/assets/161405457/1d0a7566-a929-4b56-999b-93d8c85f8737" width="509">
 
