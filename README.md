@@ -16,4 +16,5 @@
             - 윤희 → 검색페이지, 개봉 예정페이지
             - 정훈 → 메인페이지
             - 
-https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8xa067LJkxklACJSSfrjXR%2FN2%EC%A1%B0%3Ftype%3Dwhiteboard%26node-id%3D0%3A1%26t%3DUnh0SeuoW3CuQ6A8-1
+
+<img width="618" alt="스크린샷 2024-04-28 오후 5 27 14" src="https://github.com/yoon3208/test-repository/assets/161405457/fcd7d942-f21f-4705-aed7-2f7448f45ef5">
