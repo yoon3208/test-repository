@@ -16,4 +16,4 @@
             - 윤희 → 검색페이지, 개봉 예정페이지
             - 정훈 → 메인페이지
             - 
-https://www.notion.so/teamsparta/S-A-Starting-Assignments-801cd0c21f404adaa56ffff4090c63d3?pvs=4#8290b53a26ff4ff3a30585ad185c0405
+https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8xa067LJkxklACJSSfrjXR%2FN2%EC%A1%B0%3Ftype%3Dwhiteboard%26node-id%3D0%3A1%26t%3DUnh0SeuoW3CuQ6A8-1
