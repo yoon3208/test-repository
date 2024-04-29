@@ -15,15 +15,11 @@
             - 정복 → 마이페이지
             - 윤희 → 검색페이지, 개봉 예정페이지
             - 정훈 → 메인페이지
-            - 
+              
 ## 와이어 프레임
 <img width="618" alt="스크린샷 2024-04-28 오후 5 27 14" src="https://github.com/yoon3208/test-repository/assets/161405457/fcd7d942-f21f-4705-aed7-2f7448f45ef5">
+<img width="288" alt="스크린샷 2024-04-29 오전 9 15 02" src="https://github.com/yoon3208/test-repository/assets/161405457/4b0c6872-aa38-40cd-982b-5ec3abd0cfdd">
 
-<img width="425" height="285" alt="스크린샷 2024-04-28 오후 5 28 47" src="https://github.com/yoon3208/test-repository/assets/161405457/c3b076e2-9f96-4ee8-ba09-db398765f51b">
-<img width="425" alt="스크린샷 2024-04-28 오후 5 28 53" src="https://github.com/yoon3208/test-repository/assets/161405457/4be90738-61ea-4b68-85c9-83e8b8c215b0">
-<img width="855" alt="스크린샷 2024-04-28 오후 5 29 00" src="https://github.com/yoon3208/test-repository/assets/161405457/197465f6-683a-42c3-bbd2-e73f52ceff32">
-<img width="857" alt="스크린샷 2024-04-28 오후 5 29 08" src="https://github.com/yoon3208/test-repository/assets/161405457/604cbb71-d415-4334-a979-cd71db11a97c">
-<img width="854" alt="스크린샷 2024-04-28 오후 5 29 14" src="https://github.com/yoon3208/test-repository/assets/161405457/86804230-541c-499e-90a2-0520ddd51e0c">
 
 # Coding Convention
 
@@ -103,3 +99,69 @@
     | final 키워드 | ✔️ 더 이상 상속이 발생하지 않는 클래스는 항상 final 키워드로 선언한다. | final class ViewController { ... } |
     | 프로토콜 extension | ✔️ 프로토콜을 적용했을 때 관련 메서드는 extension으로 모아둔다. | extension VC: UITableViewDelegate { ... } |
     | 생명주기 | ✔️ 생명 주기에는 최대한 코드를 간결하게 작성한다. |  |
+
+# Git
+
+ex) [feat] alert action 추가
+
+- `feat` : 새로운 기능 추가
+- `fix` : 버그 수정
+- `docs` : 문서 수정
+- `style` : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우
+- `refactor` : 코드 리펙토링
+- `test` : 테스트 코드, 리펙토링 테스트 코드 추가
+- `chore` : 빌드 업무 수정, 패키지 매니저 수정
+- `add` : 파일, 기타요소 추가
+
+# 개발기능
+  
+- 로그인 화면/회원가입 화면(조현민)
+    - [x]  회원가입 버튼을 누르면 아이디와 비밀번호를 입력받아 회원가입을 하고, 완료되면 다시 로그인 화면으로 이동합니다(아이디와 비밀번호 이외에 다른 정보들을 받아도 됩니다)
+        - [x]  아이디(이메일 형식 확인, x버튼 클릭시 다 지우기)
+        - [x]  비밀번호(눈 버튼 클릭시 비밀번호 표시)
+    - [x]  로그인이 완료되면 UserDefault에 아이디와 비밀번호를 저장해서 이후 로그인할 때 아이디와 비밀번호가 자동으로 입력되어 있도록 합니다.
+    - [x]  로그인이 완료되면 영화목록페이지로 전환
+    - [x]  필수 기능 요소
+        - `UserDefaults`를 활용하여 아이디와 비밀번호, 기타 정보를 저장해주세요.
+- 영화 목록 페이지(송정훈)
+    - [x]  하단 **TapBar의 첫번째 화면**입니다.
+    - [x]  영화 이미지들은 좌우 스크롤 가능하도록 구현해주세요
+    - [x]  API
+    - https://developer.themoviedb.org/reference/movie-upcoming-list
+    - [x]  `UITableView`를 활용하여 영화 포스터 카테고리별로 분류
+    - [x]  `UICollectionView`를 활용하여 영화 포스터 가로 스크롤
+    - [x]  사용자가 직접 상호 작용할 수 있는 다양한 기능을 제공해보세요.
+- 개봉예정 페이지?(박윤희)
+    - [x]  하단 **TapBar의 두번째 화면**입니다.
+    - [x]  `UICollectionView` 를 활용하여 현재 날짜에서 (Date) 가장 가까운 순으로 제공
+    - [x]  UIVisualEffectView를 활용하여 뒤에 있는 이미지 blur처리
+    - [x]  포스터 클릭 시 해당 세부페이지로 이동(present)
+- 찜목록 페이지(이정복)
+    - [x]  하단 **TapBar의 세번째 화면**입니다.
+    - [x]  `UICollectionView`를 활용하여 찜한 영화 표시
+    - [x]  `UISwipeGestureRecognizer` 를 이용하여 위로 스와이프시 셀 제거
+- 영화 세부 페이지(김생근)
+    - [x]  영화를 클릭시 영화의 세부 페이지로 이동해주세요
+        - [x]  로딩화면 구현
+    - [x]  영화의 정보를 함께 페이지에 보여주세요
+    - [x]  예매하기 버튼
+    - [x]  찜하기 버튼
+- 영화 예매 입력 페이지(김생근)
+    - [x]  영화 세부 페이지에서 예매하기 버튼 클릭시 해당 페이지로 이동해주세요
+    - [x]  `UIPickerView` 를 활용하여 시간 선택하도록 구현 !????????????
+        - [x]  `UIDatPickerView`를 이용해 구현했습니다.
+            - [x]  현재 시간을 기준으로 2주뒤 까지 선택이 가능하게 구현했습니다.
+    - [x]  결제하기 버튼을 누르면 결제 내역이 마이페이지에서 보이도록 해주세요
+- 영화 검색 페이지(박윤희)
+    - [x]  상단 **돋보기버튼 클릭시 화면**입니다.
+    - [x]  검색창에 텍스트를 입력하고 검색 버튼 클릭시 해당 텍스트가 포함된 영화들을 보여주세요
+    - [x]  `UICollectionView`를 활용하여 영화 포스터를 표시
+    - [x]  포스터 클릭시 해당 세부페이지로 이동 (present)
+- 마이 페이지(이정복)
+    - [x]  마이페이지 버튼 클릭시 해당 페이지로 이동
+    - [x]  나의 필요한 계정 정보들을 표시해주세요(회원가입시 받은 정보들 활용)
+    - [x]  프로필 이미지
+    - [x]  찜 리스트 보여주기
+    - [x]  예매한 영화 내역을 볼 수 있도록 해주세요
+    - [x]  로그아웃시 로그인 화면으로 전환
+    - [x]  닉네임 설정
