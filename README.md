@@ -25,7 +25,7 @@
 <img width="857" alt="스크린샷 2024-04-28 오후 5 29 08" src="https://github.com/yoon3208/test-repository/assets/161405457/604cbb71-d415-4334-a979-cd71db11a97c">
 <img width="854" alt="스크린샷 2024-04-28 오후 5 29 14" src="https://github.com/yoon3208/test-repository/assets/161405457/86804230-541c-499e-90a2-0520ddd51e0c">
 
-# Coding Convention
+# - Coding Convention
     - **코드 레이아웃**
         
         ### **1️⃣ 코드 레이아웃: 코드의 가독성을 높이기 위해 설정해 주는 규칙**
