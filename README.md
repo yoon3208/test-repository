@@ -1,6 +1,6 @@
 12
-
-## 프로젝트 소개
+수정수정
+## 프로젝트 소개 
 <img src="https://github.com/yoon3208/test-repository/assets/161405457/1d0a7566-a929-4b56-999b-93d8c85f8737" width="509">
 
 
@@ -14,7 +14,7 @@
             - 생근 → 세부페이지, 예매페이지
             - 정복 → 마이페이지
             - 윤희 → 검색페이지, 개봉 예정페이지
-            - 정훈 → 메인페이지
+            - 정훈 → 메인페이지]]
               
 ## 와이어 프레임
 <img width="618" alt="스크린샷 2024-04-28 오후 5 27 14" src="https://github.com/yoon3208/test-repository/assets/161405457/fcd7d942-f21f-4705-aed7-2f7448f45ef5">
